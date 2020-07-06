@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.facebook.testing.screenshot</groupId>
+  <artifactId>core</artifactId>
+  <versioning>
+    <release>0.11.0-TEMP</release>
+    <versions>
+      <version>0.13.0-SNAPSHOT</version>
+      <version>0.11.0</version>
+      <version>0.11.0-TEMP</version>
+    </versions>
+    <lastUpdated>20200706130346</lastUpdated>
+  </versioning>
+</metadata>
